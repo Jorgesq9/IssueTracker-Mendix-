@@ -42,11 +42,6 @@ Users can create, view, and manage incidents based on their role, as well as cha
 
 ---
 
-## 📸 Screenshots
-
-> Upload images of the app here (login, dashboard, chat, etc.)
-
----
 
 ## 🧑‍💻 How to try the app
 
