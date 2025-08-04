@@ -61,5 +61,5 @@ Permite crear, visualizar y gestionar incidencias en función del rol de usuario
 
 Jorge Esquiva  
 [🔗 Portfolio](https://jorgeesquivafullstack.es/)  
-[🔗 LinkedIn](https://www.linkedin.com/in/jorgeesquiva/)
+[🔗 LinkedIn](https://www.linkedin.com/in/jorge-esquiva-llobregat-614565131)
 
