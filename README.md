@@ -62,4 +62,4 @@ Users can create, view, and manage incidents based on their role, as well as cha
 
 Jorge Esquiva  
 [🔗 Portfolio](https://jorgeesquivafullstack.es/)  
-[🔗 LinkedIn](https://www.linkedin.com/in/jorgeesquiva/)
+[🔗 LinkedIn]([https://www.linkedin.com/in/jorgeesquiva/](https://www.linkedin.com/in/jorge-esquiva-llobregat-614565131)
