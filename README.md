@@ -42,12 +42,6 @@ Permite crear, visualizar y gestionar incidencias en función del rol de usuario
 
 ---
 
-## 📸 Capturas de pantalla
-
-> ¡Sube aquí imágenes de la app, como el login, dashboard y chat!
-
----
-
 ## 🧑‍💻 Cómo probar la app
 
 1. Haz clic en el enlace de la demo.
